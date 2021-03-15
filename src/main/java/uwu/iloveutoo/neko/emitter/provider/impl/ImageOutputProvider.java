@@ -17,7 +17,7 @@ public class ImageOutputProvider implements OutputProvider<EndpointImage> {
 
     /* Fields */
 
-    private final ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors(), Util.namedFactory("image-io-pool-%d"));
+    private final ExecutorService executor = Executors.newCachedThreadPool(Util.namedFactory("image-io-pool-%d"));
     private final File saveDirectory;
 
 

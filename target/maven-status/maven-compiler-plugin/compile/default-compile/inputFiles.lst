@@ -9,6 +9,7 @@
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/model/ResponseType.java
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/emitter/provider/OutputProviderRegister.java
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/emitter/provider/OutputProvider.java
+/media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/util/LazySupplier.java
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/model/ContentType.java
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/Main.java
 /media/iloveutoo/SSD/shared/IdeaProjects/web/other/neko-downloader/src/main/java/uwu/iloveutoo/neko/emitter/impl/ImageEmitter.java
